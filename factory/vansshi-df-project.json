@@ -1,0 +1,9 @@
+{
+	"name": "vansshi-df-project",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d1da7bb-c1c4-4b9d-b83d-3d68a1297866",
+		"tenantId": "eb5eb375-e7d8-4dfa-8310-af243897dbfe"
+	}
+}
